@@ -1,3 +1,7 @@
 Names:
+<<<<<<< HEAD
 Jaden Sterner
 
+=======
+Caleb Hill
+>>>>>>> fd93d4b7d73bbc3d6c94f81ea03c580671f17789
